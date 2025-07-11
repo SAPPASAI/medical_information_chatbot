@@ -1,0 +1,4 @@
+Pillow
+pyttsx3
+pyaudio
+openai-whisper
